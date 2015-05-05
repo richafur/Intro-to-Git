@@ -1,6 +1,6 @@
 # Intro to Git
 
-To complete the Intro to Git exercise, follow these steps:
+To complete the Intro to Git exercise, follow these steps: (and make sure you are using a text editor like [Sublime Text](http://www.sublimetext.com/))
 
 #### Fork the Branch
 
